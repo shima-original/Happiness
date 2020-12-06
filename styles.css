@@ -1,0 +1,127 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 1.5vw;
+}
+
+body {
+    background-color: #FFFACD;
+    background-image: linear-gradient(to bottom, #FFFACD, #FFD700);
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainflexbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top {
+    padding: 3rem;
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    padding: 2rem;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    padding: 1rem;
+
+}
+
+h3 {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+
+
+.happiness {
+    background-color: white;
+    padding: 3rem;  
+    margin: 1rem;
+    font-size: 0.8rem;
+    border: 2px solid rgb(110, 94, 50);
+    border-radius: 1rem;
+}
+
+.image {
+    float: right;
+    padding-top: 1rem;  
+    padding-left: 1rem;
+} 
+
+img {
+    border-radius: 1rem;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    padding: 1rem;
+}
+
+p {
+    padding: 1rem;
+}
+
+.course {
+    background-color: white;
+    padding: 3rem;  
+    margin: 1rem;
+    border: 2px solid rgb(110, 94, 50);
+    border-radius: 1rem;
+}
+
+
+.photo {
+    float: right;
+    padding: 1rem;
+}
+
+.larisa {
+
+}
+
+.footer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.whatsapp, .inst {
+    background-repeat: no-repeat;
+    padding: 1rem;
+    margin: 3rem;
+
+}
+
+.footer img {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+a:hover {
+text-decoration: underline;
+}
