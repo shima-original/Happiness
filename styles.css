@@ -72,30 +72,27 @@ ul {
 }
 
 p {
-    padding: 1rem;
+    padding: 100%;
 }
 
 .course {
     background-color: white;
-    padding: 3rem;  
-    margin: 1rem;
+    padding: 300%;  
+    margin: 100%;
     border: 2px solid rgb(110, 94, 50);
-    border-radius: 1rem;
+    border-radius: 20px;
 }
 
 
 .photo {
     float: right;
-    padding: 1rem;
+    padding: 100%;
 }
 
-.larisa {
-
-}
 
 .footer {
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
 }
@@ -103,8 +100,8 @@ p {
 
 .whatsapp, .inst {
     background-repeat: no-repeat;
-    padding: 1rem;
-    margin: 3rem;
+    padding: 100%;
+    margin: 300%;
 
 }
 
@@ -115,8 +112,8 @@ p {
 a {
     text-decoration: none;
     color: white;
-    padding: 1rem;
-    font-size: 2rem;
+    padding: 100%;
+    font-size: 200%;
 }
 
 a:hover {
