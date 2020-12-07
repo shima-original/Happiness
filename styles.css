@@ -81,9 +81,13 @@ p {
 
 .larisa {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row;
     justify-content: space-around;
     align-items: center;
+}
+
+.larisa img {
+     border-radius: 20px;
 }
 
 .about, .photo {
