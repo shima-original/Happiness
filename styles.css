@@ -48,8 +48,10 @@ h3 {
 
 .happiness {
     background-color: white;
-    padding: 10%;  
-    margin: 7%;
+    background-image: url(elijah-hail-29GUdIWrink-unsplash.jpg);
+    width: 100%;
+    padding: 10px;  
+    margin: 7px;
     border: 2px solid rgb(110, 94, 50);
     border-radius: 20px;
     flex-basis: auto;
