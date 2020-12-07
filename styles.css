@@ -5,15 +5,12 @@
     box-sizing: border-box;
 }
 
-html {
-    font-size: 2vw;
-}
 
 body {
     background-color: #FFFACD;
     background-image: linear-gradient(to bottom, #FFFACD, #FFD700);
-    font-size: 1rem;
-    line-height: 1.5rem;
+    font-size: 62.5%;
+    line-height: 150%;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -25,53 +22,53 @@ body {
 }
 
 .top {
-    padding: 3rem;
+    padding: 300%;
 
 }
 
 h1 {
     font-family: 'Roboto', sans-serif;
-    font-size: 2.5rem;
-    padding: 2rem;
+    font-size: 250%;
+    padding: 200%;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.5rem;
-    padding: 1rem;
+    font-size: 150%;
+    padding: 100%;
 
 }
 
 h3 {
-    font-size: 1.2rem;
-    padding: 1rem;
+    font-size: 120%;
+    padding: 100%;
 }
 
 
 
 .happiness {
     background-color: white;
-    padding: 3rem;  
-    margin: 1rem;
-    font-size: 0.8rem;
+    padding: 300%;  
+    margin: 100%;
+    font-size: 80%;
     border: 2px solid rgb(110, 94, 50);
-    border-radius: 1rem;
+    border-radius: 20px;
 }
 
 .image {
     float: right;
-    padding-top: 1rem;  
-    padding-left: 1rem;
+    padding-top: 100%;  
+    padding-left: 100%;
 } 
 
 img {
-    border-radius: 1rem;
+    border-radius: 20px;
 }
 
 ul {
     list-style-type: square;
     list-style-position: inside;
-    padding: 1rem;
+    padding: 100%;
 }
 
 p {
