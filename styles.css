@@ -81,15 +81,16 @@ p {
 
 .larisa {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
 }
 
-.about {
+.about, .photo {
     padding: 10px;  
     margin: 7px;
 }
+
 
 .footer {
     display: flex;
