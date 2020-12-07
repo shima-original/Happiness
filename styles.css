@@ -49,6 +49,8 @@ h3 {
 .happiness {
     background-color: white;
     background-image: url(elijah-hail-29GUdIWrink-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
     width: 100%;
     padding: 10px;  
     margin: 7px;
