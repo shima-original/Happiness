@@ -48,11 +48,10 @@ h3 {
 
 .happiness {
     background-color: white;
-    padding: 5%;  
+    padding: 10%;  
     margin: 7%;
     border: 2px solid rgb(110, 94, 50);
     border-radius: 20px;
-    text-align: center;
     flex-basis: auto;
 }
 
