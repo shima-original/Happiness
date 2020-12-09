@@ -71,8 +71,7 @@ h3 {
 .happiness .whatsapp {
     border: 2px solid rgb(110, 94, 50);
     border-radius: 20px;
-    width: 150px;
-    color: black;
+    color: #000000;
 }
 
 ul {
