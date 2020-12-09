@@ -32,6 +32,10 @@ body {
 
 }
 
+.top h2 {
+     color: #fcbe1e;
+}
+
 h1 {
     font-family: 'Roboto', sans-serif;
     color: #fcbe1e;
