@@ -68,6 +68,13 @@ h3 {
     flex-basis: auto;
 }
 
+.happiness .whatsapp {
+    border: 2px solid rgb(110, 94, 50);
+    border-radius: 20px;
+    width: 150px;
+    color: black;
+}
+
 ul {
     list-style-type: square;
     list-style-position: inside;
@@ -103,9 +110,7 @@ p {
 }
 
 .write {
-    border: 2px solid rgb(110, 94, 50);
-    border-radius: 20px;
-    width: 150px;
+ color: white;
 }
 
 .footer {
