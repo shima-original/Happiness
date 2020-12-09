@@ -86,9 +86,17 @@ h3 {
 }
 
 ul {
-    list-style-type: square;
     list-style-position: inside;
     padding: 10px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li:before {
+    content: counter(item, disc) " ";
+    color: #fcbe1e;
 }
 
 p {
