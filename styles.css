@@ -126,13 +126,13 @@ p {
 
 .photo img {
     border-radius: 20px;
-    flex: 1 1`200px;
+    flex: 1 1`300px;
 }
 
 .about, .photo {
     padding: 20px;  
     margin: 30px;
-    flex: 1 1 350px;
+    flex: 1 1 450px;
 }
 
 .footer {
