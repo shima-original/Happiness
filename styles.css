@@ -113,6 +113,7 @@ p {
 
 .larisa {
     display: flex;
+    display: webkit-flex;
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
@@ -125,13 +126,13 @@ p {
 
 .photo img {
     border-radius: 20px;
-    flex-grow: 1;
+    flex: 1 1`200px;
 }
 
 .about, .photo {
     padding: 20px;  
     margin: 30px;
-    flex-grow: 2;
+    flex: 1 1 350px;
 }
 
 .footer {
