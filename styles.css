@@ -36,36 +36,35 @@ h1 {
     font-family: 'Roboto', sans-serif;
     color: #808000;
     font-size: 300%;
-    padding: 10px;
+    padding: 7%;
     line-height: 50px;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 250%;
-    padding: 10px;
+    padding: 7%;
     line-height: 50px;
     color: #FF8C00;
 }
 
 h3 {
     font-size: 150%;
-    padding: 10px;
+    padding: 7%;
 }
 
 
 
 .happiness {
     background-color: white;
-    padding: 20px;  
-    margin: 30px;
+    padding: 7%;  
+    margin: 10%;
     border: 2px solid #FFEFD5;
     border-radius: 20px;
-    flex-basis: auto;
 }
 
 .whatsapp1 {
-    margin: 30px;
+    margin: 10%;
 }
 
 .whatsapp1 a {
@@ -118,8 +117,8 @@ p {
     justify-content: space-around;
     align-items: center;
     background-color: white;
-    padding: 20px;  
-    margin: 30px;
+    padding: 7%;  
+    margin: 10%;
     border: 2px solid #FFEFD5;
     border-radius: 20px;
 }
@@ -144,20 +143,20 @@ p {
 
 .whatsapp, .inst {
     background-repeat: no-repeat;
-    padding: 20px;
-    margin: 30px;
+    padding: 7%;
+    margin: 10%;
 
 }
 
 .footer img {
     float: left;
-    padding-left: 20px;
+    padding-left: 7%;
 }
 
 a {
     text-decoration: none;
     color: white;
-    padding: 20px;
+    padding: 7%;
     font-size: 200%;
 }
 
