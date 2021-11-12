@@ -125,11 +125,11 @@ p {
 
 .photo img {
     border-radius: 20px;
-    width: 40%;
+    width: 35%;
 }
 
 .about, .photo {
-    width: 60%;
+    width: 45%;
     padding: 20px;  
     margin: 30px;
 }
