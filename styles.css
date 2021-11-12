@@ -78,7 +78,8 @@ h3 {
 ul {
     list-style-position: inside;
     padding: 3%;
-    padding-top, padding-bottom: 1%;
+    padding-top: 1%; 
+    padding-bottom: 1%;
 }
 
 ul li {
