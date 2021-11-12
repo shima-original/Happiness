@@ -64,6 +64,10 @@ h3 {
     flex-basis: auto;
 }
 
+.whatsapp1 {
+    margin: 30px;
+}
+
 .whatsapp1 a {
     background-color: #FFD700;
     background-image: -webkit-linear-gradient(top, #FFD700 0%, #FFA500 50%, #FF8C00 50%, #FF4500 100%);
@@ -78,7 +82,6 @@ h3 {
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    margin: 30px;
     font-size: 200%;
 }
 
