@@ -126,7 +126,7 @@ p {
 
 .photo img {
     border-radius: 20px;
-    flex: 1 1`300px;
+    flex: 1 1 300px;
 }
 
 .about, .photo {
