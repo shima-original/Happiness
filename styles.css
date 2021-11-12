@@ -11,9 +11,6 @@ html {
 }
 
 body {
-    background-image: url(elijah-hail-29GUdIWrink-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
     width: 100%;
     font-size: 100%;
     line-height: 40px;
@@ -63,7 +60,7 @@ h3 {
     background-color: white;
     padding: 10px;  
     margin: 7px;
-    border: 2px solid rgb(110, 94, 50);
+    border: 2px solid #FFEFD5;
     border-radius: 20px;
     flex-basis: auto;
 }
