@@ -59,7 +59,7 @@ h3 {
 .happiness {
     background-color: white;
     padding: 10px;  
-    margin: 7px;
+    margin: 15px;
     border: 2px solid #FFEFD5;
     border-radius: 20px;
     flex-basis: auto;
@@ -103,8 +103,8 @@ p {
 .course {
     background-color: white;
     padding: 10px;  
-    margin: 7px;
-    border: 2px solid rgb(110, 94, 50);
+    margin: 15px;
+    border: 2px solid #FFEFD5;
     border-radius: 20px;
 }
 
@@ -121,7 +121,7 @@ p {
 
 .about, .photo {
     padding: 10px;  
-    margin: 7px;
+    margin: 15px;
 }
 
 .footer {
