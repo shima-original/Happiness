@@ -169,6 +169,9 @@ text-decoration: underline;
     transition: transform 0.6s ease; /* 0.6 длительность смены слайда в секундах */
   }
   .slider__item {
+    background-color: #CCDCDD;
+    margin: 2%;
+    padding: 3%;
     flex: 0 0 100%;
     max-width: 100%;
   }
