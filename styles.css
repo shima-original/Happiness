@@ -170,7 +170,7 @@ text-decoration: underline;
   .slider__item {
     background-color: #CCDCDD;
     margin: 2px;
-    padding: 5%;
+    padding: 3% 7% 3% 7%;
     line-height: 1.2rem;
     font-size: 90%;
     flex: 0 0 100%;
