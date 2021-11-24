@@ -224,5 +224,5 @@ text-decoration: underline;
 .slider__item img {
     float: right;
     border-radius: 20px;
-    margin-left: 3%;
+    margin: 3%;
 }
